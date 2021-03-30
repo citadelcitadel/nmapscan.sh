@@ -62,4 +62,5 @@ Nmap scan report for 10.42.0.13 Host is up.
 Nmap done: 256 IP addresses (12 hosts up) scanned in 6.01 seconds
 
 
-I hardcoded the IP address, so you have to edit the script yourself with whatever your 192.168.x.x or whatever your doing with nmap here "nmap -sP 10.42.0.*"
+I hardcoded the IP address, 
+so you have to edit the script yourself with whatever your 192.168.x.x or whatever your doing with nmap here "nmap -sP 10.42.0.*"
